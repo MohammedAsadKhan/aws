@@ -1,9 +1,7 @@
 # AWS Certified AI Practitioner (AIF-C01)
 
-**Status:** Pending
+**Status:** ✅ Passed
 **Exam Date:** June 2026  
-**Score:** Passed  
-**Testing Center:** Pearson VUE — TAMUCC Campus
 
 ---
 

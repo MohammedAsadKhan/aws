@@ -1,7 +1,8 @@
 # AWS Certified AI Practitioner (AIF-C01)
 
-**Status:** ✅ Passed
-**Exam Date:** June 2026  
+**Status:** ✅ Passed  
+**Exam Date:** June 23, 2026  
+**Testing Center:** Pearson VUE — Texas A&M University-Corpus Christi
 
 ---
 
@@ -17,13 +18,13 @@ The AWS Certified AI Practitioner validates foundational knowledge of AI, ML, an
 
 ## Domain Breakdown
 
-| Domain | Weight | Notes |
-|--------|--------|-------|
-| Domain 1: Fundamentals of AI and ML | 20% | [View Notes](./notes/) |
-| Domain 2: Fundamentals of Generative AI | 24% | [View Notes](./notes/) |
-| Domain 3: Applications of Foundation Models | 28% | [View Notes](./notes/) |
-| Domain 4: Responsible AI | 14% | [View Notes](./notes/) |
-| Domain 5: Security, Compliance & Governance | 14% | [View Notes](./notes/) |
+| Domain | Weight |
+|--------|--------|
+| Domain 1: Fundamentals of AI and ML | 20% |
+| Domain 2: Fundamentals of Generative AI | 24% |
+| Domain 3: Applications of Foundation Models | 28% |
+| Domain 4: Responsible AI | 14% |
+| Domain 5: Security, Compliance & Governance | 14% |
 
 ---
 
@@ -31,37 +32,45 @@ The AWS Certified AI Practitioner validates foundational knowledge of AI, ML, an
 
 | File | Domain | Topics |
 |------|--------|--------|
-| [Domain1-Fundamentals.md](./notes/Domain1-AI-ML-Fundamentals.md) | Domain 1 | AI/ML terminology, neural networks, deep learning |
-| [Domain1-PracticalUseCases.md](./notes/Domain1-PracticalUseCases.md) | Domain 1 | AI patterns, anti-patterns, ML techniques, AWS services |
-| [Domain1-MLLifecycle.md](./notes/Domain1-MLLifecycle.md) | Domain 1 | ML pipeline, MLOps, SageMaker, performance metrics |
-| [Domain2-GenAI-Fundamentals.md](./notes/Domain2-GenAI-Fundamentals.md) | Domain 2 | Tokens, embeddings, foundation model types, lifecycle |
-| [Domain2-GenAI-Capabilities.md](./notes/Domain2-GenAI-Capabilities.md) | Domain 2 | Advantages, disadvantages, model selection, business value |
-| [Domain2-AWS-GenAI-Offerings.md](./notes/Domain2-AWS-GenAI-Offerings.md) | Domain 2 | Bedrock, SageMaker JumpStart, Amazon Q, PartyRock |
-| [Domain3-FoundationModelDesign.md](./notes/Domain3-FoundationModelDesign.md) | Domain 3 | Model selection, inference parameters, RAG, vector databases |
-| [Domain3-ModelPerformance.md](./notes/Domain3-ModelPerformance.md) | Domain 3 | ROUGE, BLEU, BERTScore, business metrics |
-| [Domain3-FineTuning.md](./notes/Domain3-FineTuning.md) | Domain 3 | Pre-training vs fine-tuning, instruction tuning, domain adaptation |
-| [Domain3-PromptEngineering.md](./notes/Domain3-PromptEngineering.md) | Domain 3 | Zero-shot, few-shot, chain-of-thought, risks |
-| [Domain4-ResponsibleAI.md](./notes/Domain4-ResponsibleAI.md) | Domain 4 | 6 pillars, bias vs variance, AWS bias detection tools |
-| [Domain4-Transparency.md](./notes/Domain4-Transparency.md) | Domain 4 | Transparency, explainability, model cards, human-centered AI |
-| [Domain4-AISecurity.md](./notes/Domain4-AISecurity.md) | Domain 4 | Shared responsibility, encryption, homomorphic encryption, prompt injection |
-| [Domain5-Governance.md](./notes/Domain5-Governance.md) | Domain 5 | AWS governance services, compliance standards, data governance |
+| [AIF-C01 - Domain 1 Fundamentals of AI and ML](./Notes/AIF-C01_-_Domain_1_Fundamentals_of_AI_and_ML.md) | Domain 1 | AI/ML terminology, neural networks, deep learning, data types |
+| [Basic AI Terminology](./Notes/Basic_AI_terminology.md) | Domain 1 & 2 | GenAI terminology, foundation model types, lifecycle |
+| [Practical Use Cases for AI](./Notes/Practical_Use_cases_for_AI.md) | Domain 1 | AI patterns, anti-patterns, ML techniques, AWS services |
+| [ML Development Lifecycle](./Notes/ML_Development_LifeCycle.md) | Domain 1 | ML pipeline, MLOps, SageMaker, performance metrics |
+| [AWS Generative AI Offerings](./Notes/AWS_Generative_AI_Offering.md) | Domain 2 | Bedrock, SageMaker JumpStart, Amazon Q, PartyRock, cost trade-offs |
+| [Foundation Model Design](./Notes/Foundation_Model_Design.md) | Domain 3 | Model selection, inference parameters, RAG, vector databases, GenAI agents |
+| [Foundation Model Performance](./Notes/Foundation_Model_Performance.md) | Domain 3 | ROUGE, BLEU, BERTScore, business value metrics |
+| [Foundation Model Training and Fine Tuning](./Notes/Foundation_Model_Training_and_Fine_Tuning.md) | Domain 3 | Pre-training vs fine-tuning, instruction tuning, domain adaptation |
+| [Prompt Engineering](./Notes/Prompt_Engineering.md) | Domain 3 | Zero-shot, few-shot, chain-of-thought, prompt risks |
+| [Responsible AI System Development](./Notes/Responsible_AI_System_Development.md) | Domain 4 | 6 pillars, bias vs variance, legal risks, AWS bias detection tools |
+| [Transparent and Explainable AI Models](./Notes/Transparent_and_Explainable_AI_Models.md) | Domain 4 | Transparency, explainability, model cards, human-centered AI |
+| [AI Security](./Notes/AI_Security.md) | Domain 4 & 5 | Shared responsibility, encryption, homomorphic encryption, prompt injection |
+| [AI Governance and Compliance](./Notes/AI_Governance_and_Compliance.md) | Domain 5 | AWS governance services, compliance standards, data governance |
 
 ---
 
 ## Key AWS Services Covered
 
-- Amazon Bedrock
-- Amazon SageMaker (Clarify, Model Monitor, Ground Truth, JumpStart)
-- Amazon Q (Developer + Business)
-- Amazon Rekognition
-- Amazon Comprehend
-- Amazon Transcribe / Translate / Polly / Lex
-- AWS Config, CloudTrail, Audit Manager, Artifact, Inspector
+- **Amazon Bedrock** — Foundation models via API, RAG, fine-tuning, Guardrails
+- **Amazon SageMaker** — Clarify, Model Monitor, Ground Truth, JumpStart, Feature Store
+- **Amazon Q** — Q Developer (coding), Q Business (enterprise data)
+- **Amazon Rekognition** — Image and video analysis
+- **Amazon Comprehend** — NLP, sentiment analysis, entity detection
+- **Amazon Transcribe / Translate / Polly / Lex** — Speech, language, chatbot services
+- **AWS Config / CloudTrail / Audit Manager / Artifact / Inspector** — Governance and compliance
 
 ---
 
-## Resources Used
+## Prep Strategy
 
-- LinkedIn Learning — AWS Certified AI Practitioner (AIF-C01) Cert Prep
-- AWS Documentation
-- Practice exams — achieved 97% before sitting the exam
+- **Course:** LinkedIn Learning — AWS Certified AI Practitioner (AIF-C01) Cert Prep
+- **Practice exams:** Achieved 97% on LinkedIn Learning practice exams before sitting
+- **Official questions:** 18/20 (90%) on AWS Skill Builder official question set
+- **Timeline:** 2 days of focused prep from zero to passing
+
+---
+
+## Resources
+
+- [AWS AI Practitioner Exam Guide](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
+- [Amazon SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/)

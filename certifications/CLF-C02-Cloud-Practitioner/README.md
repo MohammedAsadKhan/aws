@@ -1,7 +1,7 @@
 # AWS Certified Cloud Practitioner (CLF-C02)
 
 **Status:** 🔄 In Progress  
-**Target Date:** After AIF-C01 pass (free voucher from AIF2CLOUD promo)
+**Date:** June/July
 
 ---
 

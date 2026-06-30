@@ -27,25 +27,6 @@ aws/
 | AWS Certified AI Practitioner (AIF-C01) | ✅ Passed | [View Notes](./certifications/AIF-C01-AI-Practitioner/) |
 | AWS Certified Cloud Practitioner (CLF-C02) | ✅ Passed | [View Notes](./certifications/CLF-C02-Cloud-Practitioner/) |
 ---
-## Projects
-### AI/ML
-> Projects built using AWS AI and machine learning services including Amazon Bedrock, SageMaker, and Rekognition.
-| Project | Description | Services Used |
-|---------|-------------|--------------|
-| Coming soon | RAG-based document Q&A system | Bedrock, OpenSearch, S3 |
-| Coming soon | Image generation app | Bedrock, S3, DynamoDB, CloudFront |
-### Security
-> Projects focused on cloud security automation, IAM auditing, and threat detection on AWS.
-| Project | Description | Services Used |
-|---------|-------------|--------------|
-| Coming soon | IAM policy auditing script | IAM, Python, Boto3 |
-| Coming soon | CloudTrail log analyzer | CloudTrail, S3, Lambda |
-### Cloud
-> General cloud infrastructure projects covering serverless, networking, and storage.
-| Project | Description | Services Used |
-|---------|-------------|--------------|
-| Coming soon | Serverless REST API | Lambda, API Gateway, DynamoDB |
----
 ## Certifications & Achievements
 - CompTIA Security+
 - AWS Certified AI Practitioner (AIF-C01)

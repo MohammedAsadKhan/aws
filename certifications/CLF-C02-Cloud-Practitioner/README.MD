@@ -1,6 +1,6 @@
 # AWS Certified Cloud Practitioner (CLF-C02)
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Passed
 
 ---
 

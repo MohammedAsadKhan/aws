@@ -59,13 +59,6 @@ Each module note follows a consistent format:
 
 ---
 
-## Hands-On Labs (Pluralsight)
-
-- [ ] Deploy a Static Website using Amazon S3 Website Hosting
-- [ ] Automate Nightly EC2 Shutdown with EventBridge Scheduler
-- [ ] Configure Least-Privilege Access using AWS IAM Users and Groups
-
----
 
 ## Key Exam Watch-Outs
 
@@ -76,11 +69,3 @@ Each module note follows a consistent format:
 - **Service launch order**: SQS (2004) → S3 & EC2 (2006) — common trick-question detail
 
 ---
-
-## Next Steps
-
-1. Finish Pluralsight video pass at 1.75x speed
-2. Complete all 3 hands-on labs
-3. Run 2–3 full-length practice exams over the weekend
-4. Final review of Security (Domain 2) and Pricing/Support (Domain 4) — highest-leverage weak spots
-5. Sit CLF-C02 exam Tuesday

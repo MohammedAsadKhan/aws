@@ -1,6 +1,6 @@
-# AWS — Certifications, Projects & Labs
+# AWS: Certifications, Projects & Labs
 
-This repository documents my AWS journey — from certification study notes to hands-on cloud, AI/ML, and security projects. It is organized to reflect both my theoretical knowledge and practical experience building on AWS.
+This repository documents my AWS journey, from certification study notes to hands-on cloud, AI/ML, and security projects. It is organized to reflect both my theoretical knowledge and practical experience building on AWS.
 
 ---
 

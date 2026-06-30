@@ -68,8 +68,9 @@ aws/
 
 ## Certifications & Achievements
 
-- 🏆 CompTIA Security+
-- 🏆 AWS Certified AI Practitioner (AIF-C01)
+- CompTIA Security+
+- AWS Certified AI Practitioner (AIF-C01)
+- AWS Certified Cloud Practitioner
 ---
 
 ## Connect

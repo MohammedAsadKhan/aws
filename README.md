@@ -70,10 +70,6 @@ aws/
 
 - 🏆 CompTIA Security+
 - 🏆 AWS Certified AI Practitioner (AIF-C01)
-- 🥇 NCL Individual Game — 55th/6,998 (Spring 2026)
-- 🥇 NCL Team Game — 20th/4,214 (Fall 2025)
-- 🥇 PicoCTF — 489th/8,747 teams
-
 ---
 
 ## Connect

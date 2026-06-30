@@ -1,6 +1,6 @@
-# AWS — Certifications, Projects & Labs
+# AWS: Certifications, Projects & Labs
 
-This repository documents my AWS journey — from certification study notes to hands-on cloud, AI/ML, and security projects. It is organized to reflect both my theoretical knowledge and practical experience building on AWS.
+This repository documents my AWS journey, from certification study notes to hands-on cloud, AI/ML, and security projects. It is organized to reflect both my theoretical knowledge and practical experience building on AWS.
 
 ---
 
@@ -70,10 +70,6 @@ aws/
 
 - 🏆 CompTIA Security+
 - 🏆 AWS Certified AI Practitioner (AIF-C01)
-- 🥇 NCL Individual Game — 55th/6,998 (Spring 2026)
-- 🥇 NCL Team Game — 20th/4,214 (Fall 2025)
-- 🥇 PicoCTF — 489th/8,747 teams
-
 ---
 
 ## Connect
